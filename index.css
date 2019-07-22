@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.sidenav {
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #454546;
+    overflow-x: hidden;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    font-size: 14px;
+    color: #ffffff;
+    display: block;
+    transition: 0.3s;
+}
+
+.maincontent {
+    margin-left: 275px;
+	margin-top: 60px;
+}
+
+
+#webrings {
+    margin-top: 30px;
+}
