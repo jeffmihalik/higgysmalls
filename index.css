@@ -11,7 +11,7 @@ body {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #454546;
+    background-image: linear-gradient(rgba(51,51,51,1) 50%, rgba(234,128,21,1));
     overflow-x: hidden;
     padding-top: 60px;
 }
@@ -28,7 +28,6 @@ body {
     margin-left: 275px;
 	margin-top: 60px;
 }
-
 
 #webrings {
     margin-top: 30px;
